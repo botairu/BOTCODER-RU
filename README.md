@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm BOTCODER</h1>
+<h1 align="center">Hi, I'm BOT AI</h1>
 
 
 # Русская версия
